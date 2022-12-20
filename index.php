@@ -1,8 +1,8 @@
 <?php
 
-$namaSaya = "There";
+$nama = "There";
 
 echo "Belajar PHP Dasar 1 <br>";
-echo "Nama saya <strong>$namaSaya</strong>";
+echo "Nama saya <strong>$nama</strong>";
 
  ?>
